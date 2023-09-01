@@ -13,7 +13,7 @@
 
 ## Name: PANDEY VEDAVYAS
 
-## Qualifications: B.TECH
+## Qualifications: B.TECH MECHANICAL ENGINEERING 
 
 Welcome to the course report for AUTOCAD & SOLIDWORKS! This README document provides an overview of the course, its mini projects and final project.
 
